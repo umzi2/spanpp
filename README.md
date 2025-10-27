@@ -21,7 +21,7 @@ Despite that, inference speed is not affected: at inference time, the convolutio
 
 ```yaml
 network_g:
-  type: SpanC
+  type: SpanPP
   scale_list: [1, 2, 3, 4]
   eval_base_scale: 2
 ```
